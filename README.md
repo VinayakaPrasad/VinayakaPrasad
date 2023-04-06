@@ -1,4 +1,4 @@
-<h1 align="center">Hi There👋, Vinayaka Prasad</h1>
+<h1 align="center">Hi There👋, I am Vinayaka Prasad</h1>
 <h3 align="center">A Java Full-Stack Web Developer</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
