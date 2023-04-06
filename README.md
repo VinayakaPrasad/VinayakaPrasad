@@ -2,7 +2,7 @@
 <h3 align="center">A Java Full-Stack Web Developer</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swati-tanu&label=Profile%20views&color=0e75b6&style=flat" alt="VinayakaPrasad" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VinayakaPrasad&label=Profile%20views&color=0e75b6&style=flat" alt="VinayakaPrasad" /> </p>
 
 - 🔭 I’m currently working on **Batch Management System.(Java Project).**
 - 🌱 I’m currently learning **Java for Backend**
